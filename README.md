@@ -50,10 +50,7 @@
 		<header id="Aboutme-header">
 		<h6>About me:</h6>
 		</header>
-		
-		<!-- keep the profile pic in the same folder as your index.html file-->
-	
-		<img src="myavtr.png" width="200" height="425" class="center">
+	<img src="myavtr.png" width="200" height="425" class="center">
 
 			<p>
 				I  <strong>SPOORTHI G M, Id:1TD19MCA18, student of BMS Institute Of Technology & Management, Bengaluru, Master Of Computer Applications department,</strong> studying in 3rd year. I am passionate about technology trends and exploring different programming languages to upskill towards industry needs. 
